@@ -1,0 +1,41 @@
+E:\my Academy\CLIPS\CLIPS.NET\Samples\my Example #1\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\my Academy\CLIPS\CLIPS.NET\Samples\my Example #1\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\my Academy\CLIPS\CLIPS.NET\Samples\my Example #1\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\my Academy\CLIPS\CLIPS.NET\Samples\my Example #1\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\my Academy\CLIPS\CLIPS.NET\Samples\my Example #1\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\my Academy\CLIPS\CLIPS.NET\Samples\my Example #1\Test1-C\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\my Academy\CLIPS\CLIPS.NET\Samples\my Example #1\Test1-C\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\my Academy\CLIPS\CLIPS.NET\Samples\my Example #1\Test1-C\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\my Academy\CLIPS\CLIPS.NET\Samples\my Example #1\Test1-C\WindowsFormsApp1\bin\Debug\Mommosoft.ExpertSystem.dll
+E:\my Academy\CLIPS\CLIPS.NET\Samples\my Example #1\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\my Academy\CLIPS\CLIPS.NET\Samples\my Example #1\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\bin\Debug\mscorlib.dll
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\bin\Debug\normidna.nlp
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\bin\Debug\normnfc.nlp
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\bin\Debug\normnfd.nlp
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\bin\Debug\normnfkc.nlp
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\bin\Debug\normnfkd.nlp
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\CS4\Term 2\Expert System\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\bin\Debug\mscorlib.dll
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\bin\Debug\normidna.nlp
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\bin\Debug\normnfc.nlp
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\bin\Debug\normnfd.nlp
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\bin\Debug\normnfkc.nlp
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\bin\Debug\normnfkd.nlp
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\the first\Desktop\Test1-C\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
